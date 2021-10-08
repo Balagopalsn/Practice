@@ -2,7 +2,7 @@ export const Data = [
   {
     title: "What type of business can use Tokko Plus?",
     content:
-      "Tokko caters to a wide variety of sellers. Be it a small grocery store or a big legacy brand - anyone who wants to sell their products/services online - Tokko is the perfect platform for you.",
+      "Tokko caters to a wide variety of sellers. Be it a small grocery store or a big legacy brand - anyone who wants to sell their products / services online - Tokko is the perfect platform for you.",
   },
   {
     title: "What are the terms for the custom domain?",
