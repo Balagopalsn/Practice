@@ -105,6 +105,7 @@ const Mainbar = () => {
             image={img4}
           />
         </div>
+        <div className="accordiondata">Frequently Asked Questions</div>
       </div>
     </div>
   );
