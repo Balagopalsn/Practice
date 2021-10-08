@@ -13,6 +13,7 @@ import img1 from "./usp image.png";
 import img2 from "./usp image (1).png";
 import img3 from "./usp.png";
 import img4 from "./usp (1).png";
+import Accordion from "./Accordion/Accordion";
 
 const mainData = [
   {
@@ -105,7 +106,12 @@ const Mainbar = () => {
             image={img4}
           />
         </div>
-        <div className="accordiondata">Frequently Asked Questions</div>
+        <div className="accordiondata">
+          <div className="faq">Frequently Asked Questions</div>
+          <div className="accordioncontents">
+            <Accordion />
+          </div>
+        </div>
       </div>
     </div>
   );
