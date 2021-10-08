@@ -37,3 +37,12 @@
 a {
   color: #3b82f6;
 }
+@media only screen and (max-width: 600px) {
+  .container1 {
+    width: 85%;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 0;
+  }
+}

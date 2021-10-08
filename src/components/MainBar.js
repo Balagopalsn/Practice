@@ -81,7 +81,7 @@ const Mainbar = () => {
             <button className="p2">Subscribe to Unlock Ads</button>
           </div>
           <div className="side2">
-            <img src={appImage} alt=""></img>
+            <img src={appImage} alt="" className="bannerImage"></img>
           </div>
         </div>
         <div className="cardcomps">
